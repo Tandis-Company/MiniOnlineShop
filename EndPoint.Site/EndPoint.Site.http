@@ -1,0 +1,6 @@
+@EndPoint.Site_HostAddress = http://localhost:5252
+
+GET {{EndPoint.Site_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
